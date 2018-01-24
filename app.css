@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Cinzel", monospace;
+  font-size: 45px;
+  color: #FF530D;
+  text-align: right;
+}
+header {
+  background-color: #000000;
+  background-image: url(parrot.jpg);
+  padding: 20vw 5em 20vw 5em;
+  background-position: top center;
+  background-size: cover;
+}
+p {
+  font-family: Libre=Franklin;
+  font-size: 20px;
+}
